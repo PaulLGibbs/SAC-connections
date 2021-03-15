@@ -1,7 +1,7 @@
 from instascrape import Post
 import pandas as pd 
 
-SESSIONID = '182261948%3AB2r80wtLXmfSBK%3A12'
+SESSIONID = ''
 
 headers = {
 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.74 Safari/537.36 Edg/79.0.309.43",
